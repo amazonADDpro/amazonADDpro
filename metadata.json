@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI English Conversation Partner",
+  "description": "An interactive AI application to help you practice and improve your English conversation skills. The AI provides real-time feedback and corrections in a friendly and supportive manner.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
